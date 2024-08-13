@@ -2,6 +2,9 @@
 # Movie API - README #
 Welcome to the Movie API! This is an open-source RESTful API built with Node.js, Express, and MongoDB. The API provides an easy way to fetch information about movies, including searching by movie name, language, and retrieving a list of all available movies.
 
+# API public link
+https://movie-api-1-lnrq.onrender.com/api
+
 # Features
 Search by Movie Name: Retrieve detailed information about a specific movie.
 Search by Language: Find movies based on their language, such as Hindi or English.
@@ -29,20 +32,20 @@ npm start
 
 # API Endpoints
 1. # Get Movie by Name #
-Endpoint: /movie/:moviename
+Endpoint: /api/movie/:moviename
 Method: GET
 Description: Fetch details of a movie by its name.
-Example: http://localhost:3000/movie/inception
+Example: http://localhost:3000/api/movie/inception
 2. Get Movies by Language
-Endpoint: /language/:language
+Endpoint: /api/language/:language
 Method: GET
 Description: Retrieve movies based on the specified language.
-Example: http://localhost:3000/language/hindi
+Example: http://localhost:3000/api/language/hindi
 3. Get All Movies
 Endpoint: /random
 Method: GET
 Description: Retrieve a list of all available movies in random order.
-Example: http://localhost:3000/random
+Example: http://localhost:3000/api/random
 # How to Use
 Copy the public link of the API or run it locally.
 To find a specific movie, use /movie/moviename.
@@ -55,4 +58,4 @@ Contributions are welcome! If you have any ideas or find any bugs, feel free to 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-If you have any questions or need further assistance, feel free to contact me via email at youremail@example.com.
+If you have any questions or need further assistance, feel free to contact me via email at somil662004@gmail.com
