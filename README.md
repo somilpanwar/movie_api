@@ -39,10 +39,10 @@ Method: GET
 Description: Retrieve movies based on the specified language.
 Example: http://localhost:3000/language/hindi
 3. Get All Movies
-Endpoint: /
+Endpoint: /random
 Method: GET
 Description: Retrieve a list of all available movies in random order.
-Example: http://localhost:3000/
+Example: http://localhost:3000/random
 # How to Use
 Copy the public link of the API or run it locally.
 To find a specific movie, use /movie/moviename.
