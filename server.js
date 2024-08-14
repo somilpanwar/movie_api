@@ -20,7 +20,7 @@ app.get("/",async(req,res)=>{
   //  return e;
   //  }) 
 
-   res.send("heyy ");
+   res.send("If you see this page add /api in the link \n see the readme file for other info ");
 
 });
 
