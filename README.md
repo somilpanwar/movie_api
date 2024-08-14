@@ -3,7 +3,7 @@
 Welcome to the Movie API! This is an open-source RESTful API built with Node.js, Express, and MongoDB. The API provides an easy way to fetch information about movies, including searching by movie name, language, and retrieving a list of all available movies.
 
 # API public link
-https://movie-api-1-lnrq.onrender.com/api
+https://movie-api-1-lnrq.onrender.com
 
 # Features
 Search by Movie Name: Retrieve detailed information about a specific movie.
