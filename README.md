@@ -35,17 +35,17 @@ npm start
 Endpoint: /api/movie/:moviename
 Method: GET
 Description: Fetch details of a movie by its name.
-Example: http://localhost:3000/api/movie/inception
+Example:https://movie-api-1-lnrq.onrender.com/api/movie/a
 2. Get Movies by Language
 Endpoint: /api/language/:language
 Method: GET
 Description: Retrieve movies based on the specified language.
-Example: http://localhost:3000/api/language/hindi
+Example: https://movie-api-1-lnrq.onrender.com/api/language/hindi
 3. Get All Movies
 Endpoint: /random
 Method: GET
 Description: Retrieve a list of all available movies in random order.
-Example: http://localhost:3000/api/random
+Example: https://movie-api-1-lnrq.onrender.com/api/movie/random
 # How to Use
 Copy the public link of the API or run it locally.
 To find a specific movie, use /movie/moviename.
