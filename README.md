@@ -40,7 +40,7 @@ Example:https://movie-api-1-lnrq.onrender.com/api/movie/a
 Endpoint: /api/language/:language
 Method: GET
 Description: Retrieve movies based on the specified language.
-Example: https://movie-api-1-lnrq.onrender.com/api/language/hindi
+Example: https://movie-ap i-1-lnrq.onrender.com/api/language/hindi
 3. Get All Movies
 Endpoint: /random
 Method: GET
